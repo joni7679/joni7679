@@ -13,6 +13,8 @@ I’m a passionate **Frontend Developer** with expertise in building responsive 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+
 
 ### 🌱 What I'm Learning:
 I’m currently diving into **React.js** and modern JavaScript frameworks to take my frontend development skills to the next level.
