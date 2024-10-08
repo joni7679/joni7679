@@ -27,8 +27,8 @@ I’m looking to collaborate on **open-source projects** and **frontend developm
 ---
 
 ### 📫 How to Reach Me:
-- **Email**: [your.email@example.com](mailto:jonihalder814@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/joni-halder/))
+- **Email**:(mailto:jonihalder814@gmail.com)
+- **LinkedIn**:([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/joni-halder/))
 
 ---
 
