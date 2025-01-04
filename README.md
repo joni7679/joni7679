@@ -17,7 +17,7 @@ I’m a passionate **Frontend Developer** with expertise in building responsive 
 
 
 ### 🌱 What I'm Learning:
-I’m currently diving into **React.js** and modern JavaScript frameworks to take my frontend development skills to the next level.
+I’m currently diving into **Redux** and modern JavaScript frameworks to take my frontend development skills to the next level.
 
 ---
 
