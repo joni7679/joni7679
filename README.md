@@ -14,6 +14,8 @@ I’m a passionate **Frontend Developer** with expertise in building responsive 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black
+
 
 
 ### 🌱 What I'm Learning:
