@@ -1,5 +1,10 @@
 # 👋 Hi, I’m **Joni Halder**
 
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;React+%7C+Redux+%7C+Tailwind+%7C+GSAP;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
+---
+
 ## 👀 About Me  
 I’m a passionate **Frontend Developer** who loves building **responsive, interactive, and user-friendly web applications**.  
 I constantly sharpen my skills by learning modern technologies and enjoy solving real-world problems with code. 🚀  
@@ -47,3 +52,18 @@ He/Him
 When I’m not coding, I’m either **experimenting with GSAP animations**, exploring **UI/UX design**, or learning new tools to make web experiences smoother and more fun. 🎨✨  
 
 ---
+
+<!-- GitHub Stats Animation -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joni-halder&show_icons=true&theme=tokyonight" alt="Joni's GitHub stats" />
+</p>
+
+<!-- Streak Animation -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joni-halder&theme=tokyonight" alt="Joni's Streak Stats" />
+</p>
+
+<!-- Top Languages Animation -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joni-halder&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
