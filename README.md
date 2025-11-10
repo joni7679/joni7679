@@ -1,13 +1,17 @@
-# 👋 Hi, I’m **Joni Halder**
+<!-- Header / Typing Animation -->
+<h1 align="center">👋 Hi, I’m <span style="color:#00C4FF;">Joni Halder</span></h1>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;React+%7C+Redux+%7C+Tailwind+%7C+GSAP;Always+Learning+New+Things!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;React+%7C+Redux+%7C+Tailwind+%7C+GSAP;Always+Learning+New+Things!"/>
+  </a>
+</p>
 
 ---
 
 ## 👀 About Me  
-I’m a passionate **Frontend Developer** who loves building **responsive, interactive, and user-friendly web applications**.  
-I constantly sharpen my skills by learning modern technologies and enjoy solving real-world problems with code. 🚀  
+I’m a passionate **Frontend Web Developer** who loves crafting **modern, responsive, and animated web experiences**.  
+Focused on **React Ecosystem** and **creative UI/UX**, I continuously learn and push my boundaries to create something new every day. 🚀  
 
 ---
 
@@ -61,46 +65,49 @@ I constantly sharpen my skills by learning modern technologies and enjoy solving
 ---
 
 💬 **Currently learning:** Full Stack Web Development with React.js, Node.js & MongoDB  
-🎯 **Goal:** Become a proficient Full-Stack Web Developer  
-🔥 **Interests:** Frontend Animation, UI/UX Design, and Creative Web Experiences  
-
+🎯 **Goal:** Build scalable, creative, and performance-driven web applications  
+🔥 **Interests:** Frontend Animation, UI/UX Design, and Real-World Project Development  
 
 ---
 
 ## 💞️ Collaboration  
-I’m open to collaborating on **frontend projects, open-source contributions,** and **creative web animations**.  
-✨ Let’s create something impactful together!  
+I’m open to collaborating on **Frontend Projects**, **Open-Source Contributions**, and **Creative UI Animations**.  
+✨ Let’s build something visually stunning & impactful together!  
 
 ---
 
 ## 📫 How to Reach Me  
-- **Portfolio**: [joniwebdevloper.netlify.app](https://joniwebdevloper.netlify.app/)  
-- **LinkedIn**: [linkedin.com/in/joni-halder](https://www.linkedin.com/in/joni-halder/)  
-- **Email**: [jonihalder814@gmail.com](mailto:jonihalder814@gmail.com)  
 
----
-
-## 😄 Pronouns  
-He/Him  
+<p align="center">
+  <a href="https://joniwebdevloper.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00C4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joni-halder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jonihalder814@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact  
-When I’m not coding, I’m either **experimenting with GSAP animations**, exploring **UI/UX design**, or learning new tools to make web experiences smoother and more fun. 🎨✨  
+When I’m not coding, I’m probably experimenting with **GSAP animations**, exploring **UI design trends**, or learning a new **React library** to level up my dev-game. 🎨✨  
 
 ---
 
-<!-- GitHub Stats Animation -->
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joni-halder&show_icons=true&theme=tokyonight" alt="Joni's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joni-halder&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joni-halder&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
-<!-- Streak Animation -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joni-halder&theme=tokyonight" alt="Joni's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joni-halder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Top Languages Animation -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joni-halder&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
+
+<h3 align="center">✨ Crafted with ❤️ by <span style="color:#00C4FF;">Joni Halder</span></h3>
