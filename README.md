@@ -18,17 +18,7 @@
 
 ## 🌟 **Featured Projects** *(Pinned for Impact)*
 
-<div align="center">
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **[Personal Portfolio](https://joniwebdevloper.netlify.app/)** | Modern portfolio with GSAP animations | React, Tailwind, GSAP | [![Demo](https://img.shields.io/badge/Live_Demo-00C4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://joniwebdevloper.netlify.app/) |
-| **[E-Commerce App]** | Full MERN stack shopping cart | React, Redux, MongoDB | [![Demo](https://img.shields.io/badge/Live_Demo-00C4FF?style=for-the-badge&logo=netlify&logoColor=white)](https://your-link.netlify.app) |
-| **[Animated Landing]** | GSAP-powered marketing page | Tailwind, GSAP, Vite | [![Demo](https://img.shields.io/badge/Live_Demo-00C4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-link.vercel.app) |
-
-[![GitHub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joni-halder&repo=portfolio&theme=tokyonight&bg_color=0D1117&title_color=00C4FF&icon_color=00C4FF&hide_border=true)](https://github.com/joni-halder/portfolio)
-
-</div>
 
 ---
 
@@ -85,11 +75,3 @@
 
 ---
 
-## 🎯 **Currently Working On**
-
-```mermaid
-graph LR
-    A[Next.js 15 + Server Actions] --> B[TanStack Query + Zustand]
-    C[GSAP Scroll Triggers] --> D[Three.js 3D Scenes]
-    E[Spline.js Interactions] --> F[Lenis Smooth Scroll]
-    G[React Compiler] --> H[Performance Optimization]
