@@ -10,7 +10,7 @@
 
 📍 **Siliguri, India** • 💼 **Open to Work** • 🌱 **Always Learning**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=netlify&logoColor=white)](https://joniwebdevloper.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=netlify&logoColor=white)]([https://(https://jonihalder.in/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joni-halder)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonihalder814@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=joni-halder&color=00C4FF&style=for-the-badge)](https://github.com/joni-halder)
@@ -29,28 +29,33 @@
 
 ---
 
-
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Redux Toolkit
-- Tailwind CSS, Bootstrap
-
-### ✨ Animations & UI
-- GSAP, ScrollTrigger
-- Framer Motion
-- AOS
-
-### 🛠 Backend & Tools
-- Node.js, Express.js
-- MongoDB
-- Git & GitHub
-- Vercel, Netlify
-- Figma
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+</p>
 
 ---
+
+### ✨ Animations & UI
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gsap" />
+  <img src="https://img.shields.io/badge/ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/AOS-FF6F00?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠 Backend & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vercel,netlify,figma" />
+</p>
+
 
 ## 🚧 Currently Working On
 - 🔹 MERN Stack Admin Dashboard
